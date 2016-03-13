@@ -22,7 +22,7 @@
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
-		<Item Name="2016 Dashboard.lvlib" Type="Library" URL="../../../GitHub/2016-Robot-Code/2016 Dashboard.lvlib"/>
+		<Item Name="2016 Dashboard.lvlib" Type="Library" URL="../2016 Dashboard.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
